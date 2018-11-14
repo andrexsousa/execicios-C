@@ -1,0 +1,3 @@
+Nome    = andre
+Idade     = 21
+Sexo  = m
